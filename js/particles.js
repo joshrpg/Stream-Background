@@ -4,7 +4,7 @@ $(function () {
         $("#sparticles-container")[0],
         {
             composition: "source-over",
-            count: 100,
+            count: 300,
             speed: 5,
             parallax: 2,
             direction: 225,
@@ -23,7 +23,7 @@ $(function () {
             drift: 5,
             glow: 2,
             twinkle: false,
-            color: ["#ffffff"],
+            color: ["#000000"],
             shape: "circle",
             imageUrl: "",
         },
