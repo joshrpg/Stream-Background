@@ -99,9 +99,10 @@ $(document).ready(function () {
         ctx.arc(0, 0, mainCircleRadius - 600, 0, Math.PI * 2);
         ctx.stroke();
 
-        ctx.beginPath();
-        ctx.arc(0, 0, 1, 0, Math.PI * 2);
-        ctx.stroke();
+        // just used to show the center of document 
+        // ctx.beginPath();
+        // ctx.arc(0, 0, 1, 0, Math.PI * 2);
+        // ctx.stroke();
 
         // center diamond
         ctx.beginPath();
