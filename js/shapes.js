@@ -51,7 +51,7 @@ $(document).ready(function () {
             0 - (camera.y - canvas.height / 2)
         );
         ctx.scale(1, 1);
-        ctx.strokeStyle = "rgba(0,0,0,0.3)";
+        ctx.strokeStyle = "rgba(255,255,255,0.3)";
         ctx.lineWidth = 1;
         ctx.setLineDash([1, 1]);
 

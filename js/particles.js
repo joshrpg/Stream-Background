@@ -23,7 +23,7 @@ $(function () {
             drift: 5,
             glow: 2,
             twinkle: false,
-            color: ["#000000"],
+            color: ["#ffffff"],
             shape: "circle",
             imageUrl: "",
         },
