@@ -22,6 +22,8 @@ body {
 #sparticles-container {
     position: absolute;
     top: 0px;
+    background-image: url(imgs/fog1.png);
+    background-size: cover;
 }
 
 .overlay {
