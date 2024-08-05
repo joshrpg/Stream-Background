@@ -6,6 +6,7 @@
 body {
     background: rgba(79, 9, 121, 1);
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .image {
