@@ -27,7 +27,7 @@ $(function () {
             shape: "circle",
             imageUrl: "",
         },
-        $(document).width() - 15,
-        $(window).height() - 20
+        $(document).width(),
+        $(window).height()
     );
 });
